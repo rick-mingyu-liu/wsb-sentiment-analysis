@@ -279,7 +279,7 @@ logs/
 tensorboard_logs/
 
 # Data files
-*.csv
+# *.csv
 *.json
 *.parquet
 *.feather
@@ -381,7 +381,7 @@ lightning_logs/
 # Dataset files (large files)
 datasets/
 data/
-*.csv
+# *.csv
 *.json
 *.parquet
 
