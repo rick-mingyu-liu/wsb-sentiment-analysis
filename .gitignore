@@ -269,9 +269,10 @@ $RECYCLE.BIN/
 # Training outputs
 results/
 sarcasm_model/
+out-sarcasm-continued
+out-continued/
 deberta-financial/
 sarcasm_detector/
-deberta_sentiment/
 
 # Logs
 logs/
