@@ -19,3 +19,5 @@ Kaggle Dataset for training: `danofer/sarcasm`, `rmisra/news-headlines-dataset-f
 
 ### Due to git repo capacity, we upload the model on `Hugging Face Hub`
 https://huggingface.co/imnotrick/sentiment_sarcasm
+
+https://github.com/rick-mingyu-liu/wsb-sentiment-analysis
