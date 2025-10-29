@@ -280,7 +280,7 @@ logs/
 tensorboard_logs/
 
 # Data files
-*.csv
+# *.csv
 *.json
 *.parquet
 *.feather
